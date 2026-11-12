@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# 备份与历史版本（保存在仓库外）
+backup_*/
+src/archive/
+
+# 私有素材与二进制
+*.mp4
+*.mov
+
+# Python
+__pycache__/
+*.pyc
+
+# 编辑器
+.vscode/
+.idea/
